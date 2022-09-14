@@ -1,6 +1,6 @@
 # README
 
-This is a test demo of our unprinted paper *Weighted Regularization Method Based on Reduced Biquaternion Complex Modulus*
+This is a test demo of our unprinted paper *New Weighted Regularization Method for Reduced Biquaternion Neural Network*. And it also includes a part of the core code implementation.
 
 Here is a briefly introduction of how to run this demo:
 
